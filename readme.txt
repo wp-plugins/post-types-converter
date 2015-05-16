@@ -58,6 +58,7 @@ One click convert post type easily, custom post type support.
 4. In "Post Link Or ID" field, enter your post shortlink or post id to convert it to new post type.
 5. In "Post Type" field, enter the new post type name to convert your post.
 6. Click on "Convert" button.
+
 * [How to get Post Shortlink and Post ID?](http://wp-time.com/post-types-converter/)
 
 == Frequently Asked Questions ==
